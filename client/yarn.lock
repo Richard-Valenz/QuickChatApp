@@ -3471,10 +3471,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bn.js@npm:^4.0.0, bn.js@npm:^4.1.0, bn.js@npm:^4.1.1, bn.js@npm:^4.4.0":
+"bn.js@npm:^4.0.0, bn.js@npm:^4.1.0, bn.js@npm:^4.1.1":
   version: 4.11.8
   resolution: "bn.js@npm:4.11.8"
   checksum: 10c0/660ac52e02123aeccb5f75e2d9a5ce76fdfeb9d18b9cc41cec2b027e888d7cdf78e14a2bab71be437cd078560f98df85b3884826249fa24b4497d257f6695085
+  languageName: node
+  linkType: hard
+
+"bn.js@npm:^4.11.9":
+  version: 4.12.2
+  resolution: "bn.js@npm:4.12.2"
+  checksum: 10c0/09a249faa416a9a1ce68b5f5ec8bbca87fe54e5dd4ef8b1cc8a4969147b80035592bddcb1e9cc814c3ba79e573503d5c5178664b722b509fb36d93620dba9b57
   languageName: node
   linkType: hard
 
@@ -3561,7 +3568,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"brorand@npm:^1.0.1":
+"brorand@npm:^1.0.1, brorand@npm:^1.1.0":
   version: 1.1.0
   resolution: "brorand@npm:1.1.0"
   checksum: 10c0/da6c1729da8cb1778362caf9e5dbacfea66b00dcfe0d2983329e7af3f97658b41715adf83bb024c5ecc68e44b2605ec9f1d167da1134328dbde40401f5d074cd
@@ -5677,17 +5684,17 @@ __metadata:
   linkType: hard
 
 "elliptic@npm:^6.0.0":
-  version: 6.5.2
-  resolution: "elliptic@npm:6.5.2"
+  version: 6.6.1
+  resolution: "elliptic@npm:6.6.1"
   dependencies:
-    bn.js: "npm:^4.4.0"
-    brorand: "npm:^1.0.1"
+    bn.js: "npm:^4.11.9"
+    brorand: "npm:^1.1.0"
     hash.js: "npm:^1.0.0"
-    hmac-drbg: "npm:^1.0.0"
-    inherits: "npm:^2.0.1"
-    minimalistic-assert: "npm:^1.0.0"
-    minimalistic-crypto-utils: "npm:^1.0.0"
-  checksum: 10c0/754f0e4b3b4b291b22f16b38a2ee70be48f8ccbda0930205ef1696b43a202271db4fbd1ca7b953a95cdfdb4eaeb1dec3cb592f1846b3f334ea684345047101c9
+    hmac-drbg: "npm:^1.0.1"
+    inherits: "npm:^2.0.4"
+    minimalistic-assert: "npm:^1.0.1"
+    minimalistic-crypto-utils: "npm:^1.0.1"
+  checksum: 10c0/8b24ef782eec8b472053793ea1e91ae6bee41afffdfcb78a81c0a53b191e715cbe1292aa07165958a9bbe675bd0955142560b1a007ffce7d6c765bcaf951a867
   languageName: node
   linkType: hard
 
@@ -7551,7 +7558,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hmac-drbg@npm:^1.0.0":
+"hmac-drbg@npm:^1.0.1":
   version: 1.0.1
   resolution: "hmac-drbg@npm:1.0.1"
   dependencies:
@@ -10058,7 +10065,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimalistic-crypto-utils@npm:^1.0.0, minimalistic-crypto-utils@npm:^1.0.1":
+"minimalistic-crypto-utils@npm:^1.0.1":
   version: 1.0.1
   resolution: "minimalistic-crypto-utils@npm:1.0.1"
   checksum: 10c0/8e7c5131db4aba9ab214dc57f7448f4e5d5195bcee1dc8d204691ab020e652e2c538b3008a61cc3a4361026261c20af15fa953e1fd0246b358724d3903eef752
