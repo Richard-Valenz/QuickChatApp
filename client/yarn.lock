@@ -3472,9 +3472,9 @@ __metadata:
   linkType: hard
 
 "bn.js@npm:^4.0.0, bn.js@npm:^4.1.0, bn.js@npm:^4.1.1, bn.js@npm:^4.4.0":
-  version: 4.11.8
-  resolution: "bn.js@npm:4.11.8"
-  checksum: 660ac52e02123aeccb5f75e2d9a5ce76fdfeb9d18b9cc41cec2b027e888d7cdf78e14a2bab71be437cd078560f98df85b3884826249fa24b4497d257f6695085
+  version: 4.12.3
+  resolution: "bn.js@npm:4.12.3"
+  checksum: 8/0fb6455c6d56e3869589ad736cc2f5ed2b6229daa1af43e93bd373eb5e20bf0ae25b166087189bce9ba3b3f4d971e1b9a12ec6027e52eb182e5535e1494cadbb
   languageName: node
   linkType: hard
 
