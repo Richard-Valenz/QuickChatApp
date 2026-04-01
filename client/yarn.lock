@@ -1404,7 +1404,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:7.9.0, @babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.3.4, @babel/runtime@npm:^7.4.5, @babel/runtime@npm:^7.7.2, @babel/runtime@npm:^7.8.4, @babel/runtime@npm:^7.8.7":
+"@babel/runtime@npm:7.9.0, @babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.3.4, @babel/runtime@npm:^7.4.5, @babel/runtime@npm:^7.7.2, @babel/runtime@npm:^7.8.4":
   version: 7.9.0
   resolution: "@babel/runtime@npm:7.9.0"
   dependencies:
@@ -16339,11 +16339,9 @@ __metadata:
   linkType: hard
 
 "yaml@npm:^1.7.2":
-  version: 1.8.2
-  resolution: "yaml@npm:1.8.2"
-  dependencies:
-    "@babel/runtime": "npm:^7.8.7"
-  checksum: 87800615bf18a95f9a6cbcee579076d2442e8d592e13ee00389756d7e760f8725edf03d6139a43bcf455d782edaf891aff5553724c9b522aee50dbaa394fb356
+  version: 1.10.3
+  resolution: "yaml@npm:1.10.3"
+  checksum: 8/6a2dd3582f4fbcc8d0e32dc26d1a42f72a901eb6ae8fad616bd720514b11a53a64eabc21dba97fbcd951c7c0e1963502313789d93a753e7786e7452376498be5
   languageName: node
   linkType: hard
 
