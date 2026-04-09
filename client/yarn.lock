@@ -9729,9 +9729,9 @@ __metadata:
   linkType: hard
 
 "lodash@npm:>=3.5 <5, lodash@npm:^4.17.11, lodash@npm:^4.17.13, lodash@npm:^4.17.14, lodash@npm:^4.17.15, lodash@npm:^4.17.5":
-  version: 4.17.15
-  resolution: "lodash@npm:4.17.15"
-  checksum: b018ec8d4c95f14a4b57005a247eca1bc25639322939471a1958d3bc721b4f18e90edb6ea564854593a8bc1f94956a0352cf0cd372991b98c42d61c0cd11e5a3
+  version: 4.18.1
+  resolution: "lodash@npm:4.18.1"
+  checksum: 8/bb5f5b49aad29614e709af02b64c56b0f8b78c6a81434a3c1ae527d2f0f78ca08f9d9fb22aa825a053876c9d2166e9c01f31c356014b5e2bdc0556c057433102
   languageName: node
   linkType: hard
 
